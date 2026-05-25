@@ -31,13 +31,3 @@ Mengubah data komik berdasarkan ID.
 Menghapus data komik berdasarkan ID.
 
 ---
-
-## Data Structure
-
-Program menggunakan struktur data dictionary yang berisi beberapa list:
-
-- ID
-- Judul
-- Genre
-- Rating
-- Author
